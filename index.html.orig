@@ -54,7 +54,7 @@
 		                    <div class="close-button" id="close-button"></div>
 		                </div>
 			            <ul class="m-menu">
-			                <li><a href="index.html#0">Home</a> 
+			                <li><a href="#0">Home</a> 
 			                    <ul class="m-submenu">
 			                        <li><a href="index.html">Home page one</a></li>
 			                        <li><a href="index-2.html">Home page two</a></li>
@@ -63,7 +63,7 @@
 			                </li>
 			                <li><a href="about.html">About</a></li>
 			                <li><a href="speaker-profile.html">Speaker</a></li>
-			                <li><a href="index.html#0">Pages</a>
+			                <li><a href="#0">Pages</a>
 		                        <ul class="m-submenu">
 		                            <li><a href="registation.html">registation</a></li>
 		                            <li><a href="event-sidebar.html">event sidebar</a></li>
@@ -75,13 +75,13 @@
 		                        </ul>
 		                    </li>
 			                <li><a href="sponsor-reg.html">Sponsors</a></li>
-			                <li><a href="index.html#0">Venue</a>
+			                <li><a href="#0">Venue</a>
 		                        <ul class="m-submenu">
 		                            <li><a href="event-venue.html">Event venues</a></li>
 		                            <li><a href="eventvenus-details.html">Event vanus details</a></li>
 		                        </ul>
 		                    </li>
-			                <li><a href="index.html#0">blog</a>
+			                <li><a href="#0">blog</a>
 			                	<ul class="m-submenu">
 			                        <li><a href="blog-page.html">Blog Page</a></li>
 			                        <li><a href="blog-single.html">Blog Single Page</a></li>
@@ -89,10 +89,10 @@
 			                </li>
 			            </ul>
 		                <ul class="social-link-list d-flex flex-wrap">
-		                    <li><a href="index.html#" class="facebook"><i class=" fab fa-facebook-f"></i></a></li>
-		                    <li><a href="index.html#" class="twitter-sm"><i class="fab fa-twitter"></i></a></li>
-		                    <li><a href="index.html#" class="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-		                    <li><a href="index.html#" class="google"><i class="fab fa-google-plus-g"></i></a></li>
+		                    <li><a href="#" class="facebook"><i class=" fab fa-facebook-f"></i></a></li>
+		                    <li><a href="#" class="twitter-sm"><i class="fab fa-twitter"></i></a></li>
+		                    <li><a href="#" class="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+		                    <li><a href="#" class="google"><i class="fab fa-google-plus-g"></i></a></li>
 		                </ul>
 			        </div>
 			    </div>
@@ -115,7 +115,7 @@
 							<div class="right d-flex align-items-center">
 								<ul class="main-menu d-flex align-items-center">
 									<li class="active">
-										<a href="index.html#">Home</a>
+										<a href="#">Home</a>
 										<ul class="submenu">
 											<li class="active"><a href="index.html">home page one</a></li>
 											<li><a href="index-2.html">home page two</a></li>
@@ -124,7 +124,7 @@
 									</li>
 									<li><a href="about.html">about</a></li>
 									<li><a href="speaker-profile.html">speaker</a></li>
-									<li><a href="index.html#">pages</a>
+									<li><a href="#">pages</a>
 										<ul class="submenu">
 											<li><a href="registation.html">registation</a></li>
 											<li><a href="event-sidebar.html">event sidebar</a></li>
@@ -136,20 +136,20 @@
 										</ul>
 									</li>
 									<li><a href="sponsor-reg.html">sponsors</a></li>
-									<li><a href="index.html#">vanus</a>
+									<li><a href="#">vanus</a>
 										<ul class="submenu">
 				                            <li><a href="event-venue.html">Event venues</a></li>
 				                            <li><a href="eventvenus-details.html">Event vanus details</a></li>
 				                        </ul>
 									</li>
-									<li><a href="index.html#">blog</a>
+									<li><a href="#">blog</a>
 										<ul class="submenu">
 											<li><a href="blog-page.html">Blog Page</a></li>
 											<li><a href="blog-single.html">Blog Single</a></li>
 										</ul>
 									</li>
 								</ul>
-								<a href="index.html#" class="reg-head d-none d-xl-block">Buy Ticket</a>
+								<a href="#" class="reg-head d-none d-xl-block">Buy Ticket</a>
 							</div>
 						</div>
 					</div>
@@ -174,7 +174,7 @@
 						<div class="banner-lc w-100">
 							<h2>Business Conference 2020</h2>
 							<p>3 Day Long Program for Business Policy and Success. </p>
-							<a href="index.html#" class="btn-defult">Buy Ticket Now</a>
+							<a href="#" class="btn-defult">Buy Ticket Now</a>
 						</div>
 					</div>
 				</div>
@@ -234,7 +234,7 @@
 					<div class="conferench-bcl wow fadeInRight" data-wow-duration="1s" data-wow-delay=".2s">
 						<h3>Hurry up!</h3>
 						<p>The last date of registration is 24 April 2020. </p>
-						<a href="index.html#" class="btn-defult">Buy Ticket</a>
+						<a href="#" class="btn-defult">Buy Ticket</a>
 					</div>
 				</div>
 			</div>
@@ -340,7 +340,7 @@
 								<p><span>People</span> Can Attend the Event</p>
 							</div>
 						</div>
-						<a href="index.html#" class="btn-defult wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">View Details</a>
+						<a href="#" class="btn-defult wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">View Details</a>
 					</div>
 				</div>
 			</div>
@@ -407,7 +407,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -442,7 +442,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -477,7 +477,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -512,7 +512,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -547,7 +547,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -601,7 +601,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -636,7 +636,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -671,7 +671,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -706,7 +706,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -741,7 +741,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -795,7 +795,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -830,7 +830,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -865,7 +865,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -900,7 +900,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -935,7 +935,7 @@
 				                                       		</div>
 				                                       		<div class="col-12 col-lg-7">
 			                                       				<div class="tdc-info">
-				                                       				<a href="index.html#" class="name">Ricardo Onex</a>
+				                                       				<a href="#" class="name">Ricardo Onex</a>
 				                                       				<span class="desc">Co-Founder of Gio.com</span>
 				                                       			</div>
 				                                       		</div>
@@ -1003,8 +1003,8 @@
 										<div class="speaker-top">
 											<h2>01.</h2>
 											<div class="speaker-info">
-												<p>Lead UI Designer at <a href="index.html#">Gio.com</a></p>
-												<h4><a href="index.html#">Jiko Bostagir</a></h4>
+												<p>Lead UI Designer at <a href="#">Gio.com</a></p>
+												<h4><a href="#">Jiko Bostagir</a></h4>
 											</div>
 										</div>
 										<ul>
@@ -1035,8 +1035,8 @@
 										<div class="speaker-top">
 											<h2>02.</h2>
 											<div class="speaker-info">
-												<p>Product Designer at <a href="index.html#">Webbcode Ltd.</a></p>
-												<h4><a href="index.html#">Sonia Butstar</a></h4>
+												<p>Product Designer at <a href="#">Webbcode Ltd.</a></p>
+												<h4><a href="#">Sonia Butstar</a></h4>
 											</div>
 										</div>
 										<ul>
@@ -1067,8 +1067,8 @@
 										<div class="speaker-top">
 											<h2>03.</h2>
 											<div class="speaker-info">
-												<p>Graphic Designer at <a href="index.html#">CodexCoder</a></p>
-												<h4><a href="index.html#">Rikon Vivo</a></h4>
+												<p>Graphic Designer at <a href="#">CodexCoder</a></p>
+												<h4><a href="#">Rikon Vivo</a></h4>
 											</div>
 										</div>
 										<ul>
@@ -1099,8 +1099,8 @@
 										<div class="speaker-top">
 											<h2>04.</h2>
 											<div class="speaker-info">
-												<p>Lead UI Designer at <a href="index.html#">Gio.com</a></p>
-												<h4><a href="index.html#">Sami Jebon</a></h4>
+												<p>Lead UI Designer at <a href="#">Gio.com</a></p>
+												<h4><a href="#">Sami Jebon</a></h4>
 											</div>
 										</div>
 										<ul>
@@ -1139,8 +1139,8 @@
 										<div class="speaker-top">
 											<h2>01.</h2>
 											<div class="speaker-info">
-												<p>Lead UI Designer at <a href="index.html#">Gio.com</a></p>
-												<h4><a href="index.html#">Jiko Bostagir</a></h4>
+												<p>Lead UI Designer at <a href="#">Gio.com</a></p>
+												<h4><a href="#">Jiko Bostagir</a></h4>
 											</div>
 										</div>
 										<ul>
@@ -1171,8 +1171,8 @@
 										<div class="speaker-top">
 											<h2>02.</h2>
 											<div class="speaker-info">
-												<p>Product Designer at <a href="index.html#">Webbcode Ltd.</a></p>
-												<h4><a href="index.html#">Sonia Butstar</a></h4>
+												<p>Product Designer at <a href="#">Webbcode Ltd.</a></p>
+												<h4><a href="#">Sonia Butstar</a></h4>
 											</div>
 										</div>
 										<ul>
@@ -1217,21 +1217,21 @@
                             <div class="item-overlay"></div>
                             <div class="social-profile">
                                 <div class="icon facebook">
-                                    <a href="index.html#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 </div>
                                 <div class="icon twitter">
-                                    <a href="index.html#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                                 <div class="icon google">
-                                    <a href="index.html#"><i class="fab fa-google-plus-g"></i></a>
+                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
                                 </div>
                                 <div class="icon linkedin">
-                                    <a href="index.html#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="item-content">
-                            <a href="index.html#" class="name">Jiko Bostagir</a>
+                            <a href="#" class="name">Jiko Bostagir</a>
                             <p>Chairman of U.con</p>
                         </div>
                     </div>
@@ -1244,21 +1244,21 @@
                             <div class="item-overlay"></div>
                             <div class="social-profile">
                                 <div class="icon facebook">
-                                    <a href="index.html#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 </div>
                                 <div class="icon twitter">
-                                    <a href="index.html#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                                 <div class="icon google">
-                                    <a href="index.html#"><i class="fab fa-google-plus-g"></i></a>
+                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
                                 </div>
                                 <div class="icon linkedin">
-                                    <a href="index.html#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="item-content">
-                            <a href="index.html#" class="name">Jesika Jesmi</a>
+                            <a href="#" class="name">Jesika Jesmi</a>
                             <p>CEO of Peace.com</p>
                         </div>
                     </div>
@@ -1271,21 +1271,21 @@
                             <div class="item-overlay"></div>
                             <div class="social-profile">
                                 <div class="icon facebook">
-                                    <a href="index.html#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 </div>
                                 <div class="icon twitter">
-                                    <a href="index.html#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                                 <div class="icon google">
-                                    <a href="index.html#"><i class="fab fa-google-plus-g"></i></a>
+                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
                                 </div>
                                 <div class="icon linkedin">
-                                    <a href="index.html#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="item-content">
-                            <a href="index.html#" class="name">Nikal Binayo</a>
+                            <a href="#" class="name">Nikal Binayo</a>
                             <p>Lead Designer of TopNews</p>
                         </div>
                     </div>
@@ -1298,21 +1298,21 @@
                             <div class="item-overlay"></div>
                             <div class="social-profile">
                                 <div class="icon facebook">
-                                    <a href="index.html#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 </div>
                                 <div class="icon twitter">
-                                    <a href="index.html#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                                 <div class="icon google">
-                                    <a href="index.html#"><i class="fab fa-google-plus-g"></i></a>
+                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
                                 </div>
                                 <div class="icon linkedin">
-                                    <a href="index.html#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="item-content">
-                            <a href="index.html#" class="name">Mina Dikso</a>
+                            <a href="#" class="name">Mina Dikso</a>
                             <p>Senior Developer of Anthem</p>
                         </div>
                     </div>
@@ -1325,21 +1325,21 @@
                             <div class="item-overlay"></div>
                             <div class="social-profile">
                                 <div class="icon facebook">
-                                    <a href="index.html#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 </div>
                                 <div class="icon twitter">
-                                    <a href="index.html#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                                 <div class="icon google">
-                                    <a href="index.html#"><i class="fab fa-google-plus-g"></i></a>
+                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
                                 </div>
                                 <div class="icon linkedin">
-                                    <a href="index.html#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="item-content">
-                            <a href="index.html#" class="name">Tonus Birbia</a>
+                            <a href="#" class="name">Tonus Birbia</a>
                             <p>Head of Idea of PlamberZone</p>
                         </div>
                     </div>
@@ -1352,21 +1352,21 @@
                             <div class="item-overlay"></div>
                             <div class="social-profile">
                                 <div class="icon facebook">
-                                    <a href="index.html#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 </div>
                                 <div class="icon twitter">
-                                    <a href="index.html#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                                 <div class="icon google">
-                                    <a href="index.html#"><i class="fab fa-google-plus-g"></i></a>
+                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
                                 </div>
                                 <div class="icon linkedin">
-                                    <a href="index.html#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="item-content">
-                            <a href="index.html#" class="name">Sansses Otribal</a>
+                            <a href="#" class="name">Sansses Otribal</a>
                             <p>Marketer of BigEvent</p>
                         </div>
                     </div>
@@ -1379,21 +1379,21 @@
                             <div class="item-overlay"></div>
                             <div class="social-profile">
                                 <div class="icon facebook">
-                                    <a href="index.html#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 </div>
                                 <div class="icon twitter">
-                                    <a href="index.html#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                                 <div class="icon google">
-                                    <a href="index.html#"><i class="fab fa-google-plus-g"></i></a>
+                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
                                 </div>
                                 <div class="icon linkedin">
-                                    <a href="index.html#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="item-content">
-                            <a href="index.html#" class="name">Metal Nulet</a>
+                            <a href="#" class="name">Metal Nulet</a>
                             <p>Senior Designer of SEO-LAB</p>
                         </div>
                     </div>
@@ -1406,21 +1406,21 @@
                             <div class="item-overlay"></div>
                             <div class="social-profile">
                                 <div class="icon facebook">
-                                    <a href="index.html#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 </div>
                                 <div class="icon twitter">
-                                    <a href="index.html#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                 </div>
                                 <div class="icon google">
-                                    <a href="index.html#"><i class="fab fa-google-plus-g"></i></a>
+                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
                                 </div>
                                 <div class="icon linkedin">
-                                    <a href="index.html#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="item-content">
-                            <a href="index.html#" class="name">Pansi De Devel</a>
+                            <a href="#" class="name">Pansi De Devel</a>
                             <p>Designer of Moonlight</p>
                         </div>
                     </div>
@@ -1587,7 +1587,7 @@
 								<span>$89</span>
 							</div>
 							<div class="reg">
-								<a href="index.html#">Register Now</a>
+								<a href="#">Register Now</a>
 							</div>
 						</div>
 					</div>
@@ -1611,7 +1611,7 @@
 								<span>$199</span>
 							</div>
 							<div class="reg">
-								<a href="index.html#">Register Now</a>
+								<a href="#">Register Now</a>
 							</div>
 						</div>
 					</div>
@@ -1635,7 +1635,7 @@
 								<span>$280</span>
 							</div>
 							<div class="reg">
-								<a href="index.html#">Register Now</a>
+								<a href="#">Register Now</a>
 							</div>
 						</div>
 					</div>
@@ -1771,7 +1771,7 @@
 		<div class="container container-1310">
 			<div class="section-header d-flex align-items-center flex-wrap wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
 				<h2>Latest News for Event</h2>
-				<a href="index.html#" class="all-view">View All Posts</a>
+				<a href="#" class="all-view">View All Posts</a>
 				<div class="blog-btn">
 	                <div class="blog-btn-prev blog-navy"></div>
 	                <div class="blog-btn-next blog-navy"></div>
@@ -1784,14 +1784,14 @@
 							<div class="post-item">
 								<div class="post-item-inner">
 									<div class="post-thumb">
-										<a href="index.html#"><img src="assets/images/blog/01.png" alt="blog"></a>
+										<a href="#"><img src="assets/images/blog/01.png" alt="blog"></a>
 									</div>
 									<div class="post-content">
 										<span>Conference, Declaration</span>
-										<h5><a href="index.html#">U.con Fixed the Schedule of The Conference.</a></h5>
+										<h5><a href="#">U.con Fixed the Schedule of The Conference.</a></h5>
 										<p>Unlimitcon includes some great package for everyone in they buy anu aclage to join this event. Its really great for you to attend this </p>
 										<div class="meta-post">
-                                            <span class="by"><img src="assets/images/blog/meta.png" alt="blog"> Posted By <a class="name" href="index.html#">Romarox</a><a class="date" href="index.html#">10 Mins Ago</a></span>
+                                            <span class="by"><img src="assets/images/blog/meta.png" alt="blog"> Posted By <a class="name" href="#">Romarox</a><a class="date" href="#">10 Mins Ago</a></span>
                                         </div>
 									</div>
 								</div>
@@ -1801,14 +1801,14 @@
 							<div class="post-item">
 								<div class="post-item-inner">
 									<div class="post-thumb">
-										<a href="index.html#"><img src="assets/images/blog/02.png" alt="blog"></a>
+										<a href="#"><img src="assets/images/blog/02.png" alt="blog"></a>
 									</div>
 									<div class="post-content">
 										<span>Conference, Declaration</span>
-										<h5><a href="index.html#">U.con Fixed the Schedule of The Conference.</a></h5>
+										<h5><a href="#">U.con Fixed the Schedule of The Conference.</a></h5>
 										<p>Unlimitcon includes some great package for everyone in they buy anu aclage to join this event. Its really great for you to attend this </p>
 										<div class="meta-post">
-                                            <span class="by"><img src="assets/images/blog/meta.png" alt="blog"> Posted By <a class="name" href="index.html#">Romarox</a><a class="date" href="index.html#">10 Mins Ago</a></span>
+                                            <span class="by"><img src="assets/images/blog/meta.png" alt="blog"> Posted By <a class="name" href="#">Romarox</a><a class="date" href="#">10 Mins Ago</a></span>
                                         </div>
 									</div>
 								</div>
@@ -1818,14 +1818,14 @@
 							<div class="post-item">
 								<div class="post-item-inner">
 									<div class="post-thumb">
-										<a href="index.html#"><img src="assets/images/blog/03.png" alt="blog"></a>
+										<a href="#"><img src="assets/images/blog/03.png" alt="blog"></a>
 									</div>
 									<div class="post-content">
 										<span>Conference, Declaration</span>
-										<h5><a href="index.html#">U.con Fixed the Schedule of The Conference.</a></h5>
+										<h5><a href="#">U.con Fixed the Schedule of The Conference.</a></h5>
 										<p>Unlimitcon includes some great package for everyone in they buy anu aclage to join this event. Its really great for you to attend this </p>
 										<div class="meta-post">
-                                            <span class="by"><img src="assets/images/blog/meta.png" alt="blog"> Posted By <a class="name" href="index.html#">Romarox</a><a class="date" href="index.html#">10 Mins Ago</a></span>
+                                            <span class="by"><img src="assets/images/blog/meta.png" alt="blog"> Posted By <a class="name" href="#">Romarox</a><a class="date" href="#">10 Mins Ago</a></span>
                                         </div>
 									</div>
 								</div>
@@ -1856,7 +1856,7 @@
             		</div>
             	</div>
             	<div class="col-lg-8">
-	                <form action="https://labartisan.net/demo/unlimitcon/contact.php" id="contact-form" method="POST">
+	                <form action="contact.php" id="contact-form" method="POST">
 	                    <div class="contact d-flex flex-wrap">
 	                        <div class="contact-item">
 	                            <div class="contact-item-inner">
@@ -1884,13 +1884,13 @@
 
     <!-- footer section start here -->
     <section class="footer-section">
-    	<div class="top"><a href="index.html#" class="scrollToTop"><i class="fas fa-angle-up"></i></a></div>
+    	<div class="top"><a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a></div>
     	<div class="footer-top padding-tb">
 	    	<div class="container container-1310">
 	    		<div class="row">
 	    			<div class="col-12 col-md-6 col-lg-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
 	    				<div class="footer-content">
-	    					<a href="index.html#" class="footer-logo"><img src="assets/images/logo/01.png" alt="logo"></a>
+	    					<a href="#" class="footer-logo"><img src="assets/images/logo/01.png" alt="logo"></a>
 	    					<p>World Business Conference one of the best famouse conference in 2020. Most of the speaker of this event ar business magnet. So its a great opportunitee to know the secrate of business success policies Policy.</p>
 	    				</div>
 	    			</div>
@@ -1901,12 +1901,12 @@
 	    					</div>
 	    					<div class="footer-link-list">
 	    						<ul>
-	    							<li><a href="index.html#">Contact with Us</a></li>
-	    							<li><a href="index.html#">Total Schedule</a></li>
-	    							<li><a href="index.html#">Pricing Plan</a></li>
-	    							<li><a href="index.html#">Sponsor Application Form</a></li>
-	    							<li><a href="index.html#">FAQ</a></li>
-	    							<li><a href="index.html#">Speaker List</a></li>
+	    							<li><a href="#">Contact with Us</a></li>
+	    							<li><a href="#">Total Schedule</a></li>
+	    							<li><a href="#">Pricing Plan</a></li>
+	    							<li><a href="#">Sponsor Application Form</a></li>
+	    							<li><a href="#">FAQ</a></li>
+	    							<li><a href="#">Speaker List</a></li>
 	    						</ul>
 	    					</div>
 	    				</div>
@@ -2002,10 +2002,10 @@
 	    			</div>
 	    			<div class="footer-social">
 	    				<ul class="social-media d-flex flex-wrap mb-0">
-	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s"><a href="index.html#"><i class="fab fa-facebook-f"></i></a></li>
-	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".4s"><a href="index.html#"><i class="fab fa-linkedin-in"></i></a></li>
-	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s"><a href="index.html#"><i class="fab fa-twitter"></i></a></li>
-	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".2s"><a href="index.html#"><i class="fab fa-google-plus-g"></i></a></li>
+	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".4s"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s"><a href="#"><i class="fab fa-twitter"></i></a></li>
+	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".2s"><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
 	    				</ul>
 	    			</div>
 	    		</div>
@@ -2035,9 +2035,9 @@
   	<script src="assets/js/functions.js"></script>
   	<script src="assets/js/wow.min.js"></script>
     <script src="assets/js/theia-sticky-sidebar.js"></script>
-	<script src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+	<script src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 	<script src="assets/js/mail.js"></script>
-	<script src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+	<script src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 	<script src="assets/js/mail.js"></script>
 
     <script>

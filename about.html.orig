@@ -54,7 +54,7 @@
 		                    <div class="close-button" id="close-button"></div>
 		                </div>
 			            <ul class="m-menu">
-			                <li><a href="about.html#0">Home</a> 
+			                <li><a href="#0">Home</a> 
 			                    <ul class="m-submenu">
 			                        <li><a href="index.html">Home page one</a></li>
 			                        <li><a href="index-2.html">Home page two</a></li>
@@ -63,7 +63,7 @@
 			                </li>
 			                <li><a href="about.html">About</a></li>
 			                <li><a href="speaker-profile.html">Speaker</a></li>
-			                <li><a href="about.html#0">Pages</a>
+			                <li><a href="#0">Pages</a>
 		                        <ul class="m-submenu">
 		                            <li><a href="contact-page.html">contact us</a></li>
 		                            <li><a href="registation.html">registation</a></li>
@@ -75,13 +75,13 @@
 		                        </ul>
 		                    </li>
 			                <li><a href="sponsor-reg.html">Sponsors</a></li>
-			                <li><a href="about.html#0">Venue</a>
+			                <li><a href="#0">Venue</a>
 		                        <ul class="m-submenu">
 		                            <li><a href="event-venue.html">Event venues</a></li>
 		                            <li><a href="eventvenus-details.html">Event vanus details</a></li>
 		                        </ul>
 		                    </li>
-			                <li><a href="about.html#0">blog</a>
+			                <li><a href="#0">blog</a>
 			                	<ul class="m-submenu">
 			                        <li><a href="blog-page.html">Blog Page</a></li>
 			                        <li><a href="blog-single.html">Blog Single Page</a></li>
@@ -89,10 +89,10 @@
 			                </li>
 			            </ul>
 		                <ul class="social-link-list d-flex flex-wrap">
-		                    <li><a href="about.html#" class="facebook"><i class=" fab fa-facebook-f"></i></a></li>
-		                    <li><a href="about.html#" class="twitter-sm"><i class="fab fa-twitter"></i></a></li>
-		                    <li><a href="about.html#" class="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-		                    <li><a href="about.html#" class="google"><i class="fab fa-google-plus-g"></i></a></li>
+		                    <li><a href="#" class="facebook"><i class=" fab fa-facebook-f"></i></a></li>
+		                    <li><a href="#" class="twitter-sm"><i class="fab fa-twitter"></i></a></li>
+		                    <li><a href="#" class="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+		                    <li><a href="#" class="google"><i class="fab fa-google-plus-g"></i></a></li>
 		                </ul>
 			        </div>
 			    </div>
@@ -115,7 +115,7 @@
 							<div class="right d-flex align-items-center">
 								<ul class="main-menu d-flex align-items-center">
 									<li>
-										<a href="about.html#">Home</a>
+										<a href="#">Home</a>
 										<ul class="submenu">
 											<li><a href="index.html">home page one</a></li>
 											<li><a href="index-2.html">home page two</a></li>
@@ -124,7 +124,7 @@
 									</li>
 									<li class="active"><a href="about.html">about</a></li>
 									<li><a href="speaker-profile.html">speaker</a></li>
-									<li><a href="about.html#">pages</a>
+									<li><a href="#">pages</a>
 										<ul class="submenu">
 											<li><a href="registation.html">registation</a></li>
 											<li><a href="event-sidebar.html">event sidebar</a></li>
@@ -136,20 +136,20 @@
 										</ul>
 									</li>
 									<li><a href="sponsor-reg.html">sponsors</a></li>
-									<li><a href="about.html#">vanus</a>
+									<li><a href="#">vanus</a>
 										<ul class="submenu">
 				                            <li><a href="event-venue.html">Event venues</a></li>
 				                            <li><a href="eventvenus-details.html">Event vanus details</a></li>
 				                        </ul>
 									</li>
-									<li><a href="about.html#">blog</a>
+									<li><a href="#">blog</a>
 										<ul class="submenu">
 											<li><a href="blog-page.html">Blog Page</a></li>
 											<li><a href="blog-single.html">Blog Single</a></li>
 										</ul>
 									</li>
 								</ul>
-								<a href="about.html#" class="reg-head d-none d-xl-block">Buy Ticket</a>
+								<a href="#" class="reg-head d-none d-xl-block">Buy Ticket</a>
 							</div>
 						</div>
 					</div>
@@ -168,7 +168,7 @@
 				<div class="banner-content">
 					<h5>Hello & Welcome To</h5>
 					<span>The No.1 Event Management Company</span>
-					<a href="about.html#" class="btn-defult">View Our Event</a>
+					<a href="#" class="btn-defult">View Our Event</a>
 				</div>
 			</div>
 		</div>
@@ -316,21 +316,21 @@
                             </div>
                             <div class="content">
                                 <div class="name">
-                                    <a href="about.html#">Sargio Lam</a>
+                                    <a href="#">Sargio Lam</a>
                                     <p>Chairman</p>
                                 </div>
                                 <p>Sargio Lam is the Chairman of Unlimitcon event management company. In 1980, He was founded this company at selicon velly with his friend.</p>
                                 <div class="social-profile">
-                                    <a href="about.html#" class="icon facebook">
+                                    <a href="#" class="icon facebook">
                                         <i class="fab fa-facebook-f"></i>
                                     </a>
-                                    <a href="about.html#" class="icon twitter">
+                                    <a href="#" class="icon twitter">
                                         <i class="fab fa-twitter"></i>
                                     </a>
-                                    <a href="about.html#" class="icon google">
+                                    <a href="#" class="icon google">
                                         <i class="fab fa-google-plus-g"></i>
                                     </a>
-                                    <a href="about.html#" class="icon linkedin">
+                                    <a href="#" class="icon linkedin">
                                         <i class="fab fa-linkedin-in"></i>
                                     </a>
                                 </div>
@@ -344,21 +344,21 @@
                             </div>
                             <div class="content">
                                 <div class="name">
-                                    <a href="about.html#">Mansile</a>
+                                    <a href="#">Mansile</a>
                                     <p>CEO & Managing Derector</p>
                                 </div>
                                 <p>Sargio Lam is the Chairman of Unlimitcon event management company. In 1980, He was founded this company at selicon velly</p>
                                 <div class="social-profile">
-                                    <a href="about.html#" class="icon facebook">
+                                    <a href="#" class="icon facebook">
                                         <i class="fab fa-facebook-f"></i>
                                     </a>
-                                    <a href="about.html#" class="icon twitter">
+                                    <a href="#" class="icon twitter">
                                         <i class="fab fa-twitter"></i>
                                     </a>
-                                    <a href="about.html#" class="icon google">
+                                    <a href="#" class="icon google">
                                         <i class="fab fa-google-plus-g"></i>
                                     </a>
-                                    <a href="about.html#" class="icon linkedin">
+                                    <a href="#" class="icon linkedin">
                                         <i class="fab fa-linkedin-in"></i>
                                     </a>
                                 </div>
@@ -374,18 +374,18 @@
 	                        </div>
 	                        <div class="content">
 	                            <div class="name">
-	                                <a href="about.html">angelina jolie</a>
+	                                <a href="">angelina jolie</a>
 	                                <p>Event Manager</p>
 	                            </div>
 	                            <div class="social-profile">
 	                                <div class="icon facebook">
-	                                    <a href="about.html#"><i class="fab fa-facebook-f"></i></a>
+	                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
 	                                </div>
 	                                <div class="icon twitter">
-	                                    <a href="about.html#"><i class="fab fa-twitter"></i></a>
+	                                    <a href="#"><i class="fab fa-twitter"></i></a>
 	                                </div>
 	                                <div class="icon linkedin">
-	                                    <a href="about.html#"><i class="fab fa-linkedin-in"></i></a>
+	                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
 	                                </div>
 	                            </div>
 	                        </div>
@@ -398,18 +398,18 @@
 	                        </div>
 	                        <div class="content">
 	                            <div class="name">
-	                                <a href="about.html">Rajib Ahmed</a>
+	                                <a href="">Rajib Ahmed</a>
 	                                <p>Event Manager</p>
 	                            </div>
 	                            <div class="social-profile">
 	                                <div class="icon facebook">
-	                                    <a href="about.html#"><i class="fab fa-facebook-f"></i></a>
+	                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
 	                                </div>
 	                                <div class="icon twitter">
-	                                    <a href="about.html#"><i class="fab fa-twitter"></i></a>
+	                                    <a href="#"><i class="fab fa-twitter"></i></a>
 	                                </div>
 	                                <div class="icon linkedin">
-	                                    <a href="about.html#"><i class="fab fa-linkedin-in"></i></a>
+	                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
 	                                </div>
 	                            </div>
 	                        </div>
@@ -422,18 +422,18 @@
 	                        </div>
 	                        <div class="content">
 	                            <div class="name">
-	                                <a href="about.html">Angel Zaara</a>
+	                                <a href="">Angel Zaara</a>
 	                                <p>Event Manager</p>
 	                            </div>
 	                            <div class="social-profile">
 	                                <div class="icon facebook">
-	                                    <a href="about.html#"><i class="fab fa-facebook-f"></i></a>
+	                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
 	                                </div>
 	                                <div class="icon twitter">
-	                                    <a href="about.html#"><i class="fab fa-twitter"></i></a>
+	                                    <a href="#"><i class="fab fa-twitter"></i></a>
 	                                </div>
 	                                <div class="icon linkedin">
-	                                    <a href="about.html#"><i class="fab fa-linkedin-in"></i></a>
+	                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
 	                                </div>
 	                            </div>
 	                        </div>
@@ -446,18 +446,18 @@
 	                        </div>
 	                        <div class="content">
 	                            <div class="name">
-	                                <a href="about.html">Sajahan Sagor</a>
+	                                <a href="">Sajahan Sagor</a>
 	                                <p>Event Manager</p>
 	                            </div>
 	                            <div class="social-profile">
 	                                <div class="icon facebook">
-	                                    <a href="about.html#"><i class="fab fa-facebook-f"></i></a>
+	                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
 	                                </div>
 	                                <div class="icon twitter">
-	                                    <a href="about.html#"><i class="fab fa-twitter"></i></a>
+	                                    <a href="#"><i class="fab fa-twitter"></i></a>
 	                                </div>
 	                                <div class="icon linkedin">
-	                                    <a href="about.html#"><i class="fab fa-linkedin-in"></i></a>
+	                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
 	                                </div>
 	                            </div>
 	                        </div>
@@ -470,18 +470,18 @@
 	                        </div>
 	                        <div class="content">
 	                            <div class="name">
-	                                <a href="about.html">Somrat Islam</a>
+	                                <a href="">Somrat Islam</a>
 	                                <p>Event Manager</p>
 	                            </div>
 	                            <div class="social-profile">
 	                                <div class="icon facebook">
-	                                    <a href="about.html#"><i class="fab fa-facebook-f"></i></a>
+	                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
 	                                </div>
 	                                <div class="icon twitter">
-	                                    <a href="about.html#"><i class="fab fa-twitter"></i></a>
+	                                    <a href="#"><i class="fab fa-twitter"></i></a>
 	                                </div>
 	                                <div class="icon linkedin">
-	                                    <a href="about.html#"><i class="fab fa-linkedin-in"></i></a>
+	                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
 	                                </div>
 	                            </div>
 	                        </div>
@@ -494,18 +494,18 @@
 	                        </div>
 	                        <div class="content">
 	                            <div class="name">
-	                                <a href="about.html">Rajib Raj</a>
+	                                <a href="">Rajib Raj</a>
 	                                <p>Event Manager</p>
 	                            </div>
 	                            <div class="social-profile">
 	                                <div class="icon facebook">
-	                                    <a href="about.html#"><i class="fab fa-facebook-f"></i></a>
+	                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
 	                                </div>
 	                                <div class="icon twitter">
-	                                    <a href="about.html#"><i class="fab fa-twitter"></i></a>
+	                                    <a href="#"><i class="fab fa-twitter"></i></a>
 	                                </div>
 	                                <div class="icon linkedin">
-	                                    <a href="about.html#"><i class="fab fa-linkedin-in"></i></a>
+	                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
 	                                </div>
 	                            </div>
 	                        </div>
@@ -534,7 +534,7 @@
 	                                        Globally expedite robust meta-services withoutorthogonal "outside the box" thinking. Globally deploy premier potentialities
 	                                    </p>
 	                                    <div class="name">
-	                                        <a href="about.html#" class="client-name">Richi Borhan</a>
+	                                        <a href="#" class="client-name">Richi Borhan</a>
 	                                        <span class="designation">Ceo at WebCode Limited</span>
 	                                    </div>
 	                                </div>
@@ -551,7 +551,7 @@
 	                                        Globally expedite robust meta-services withoutorthogonal "outside the box" thinking. Globally deploy premier potentialities
 	                                    </p>
 	                                    <div class="name">
-	                                        <a href="about.html#" class="client-name">Zinat Zaara</a>
+	                                        <a href="#" class="client-name">Zinat Zaara</a>
 	                                        <span class="designation">Ceo at zaraj Limited</span>
 	                                    </div>
 	                                </div>
@@ -695,13 +695,13 @@
                         <li>contact@yourmail.com</li>
                     </ul>
                     <ul class="social-link-list d-flex flex-wrap">
-                        <li><a href="about.html#" class="facebook"><i class=" fab fa-facebook-f"></i></a></li>
-                        <li><a href="about.html#" class="twitter-sm"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="about.html#" class="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-                        <li><a href="about.html#" class="google"><i class="fab fa-google-plus-g"></i></a></li>
-                        <li><a href="about.html#" class="behance"><i class="fab fa-behance"></i></a></li>
-                        <li><a href="about.html#" class="tumblr"><i class="fab fa-tumblr"></i></a></li>
-                        <li><a href="about.html#" class="youtube"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="#" class="facebook"><i class=" fab fa-facebook-f"></i></a></li>
+                        <li><a href="#" class="twitter-sm"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="#" class="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="#" class="google"><i class="fab fa-google-plus-g"></i></a></li>
+                        <li><a href="#" class="behance"><i class="fab fa-behance"></i></a></li>
+                        <li><a href="#" class="tumblr"><i class="fab fa-tumblr"></i></a></li>
+                        <li><a href="#" class="youtube"><i class="fab fa-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -771,13 +771,13 @@
 	
     <!-- footer section start here -->
     <section class="footer-section">
-    	<div class="top"><a href="about.html#" class="scrollToTop"><i class="fas fa-angle-up"></i></a></div>
+    	<div class="top"><a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a></div>
     	<div class="footer-top padding-tb">
 	    	<div class="container container-1310">
 	    		<div class="row">
 	    			<div class="col-12 col-md-6 col-lg-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
 	    				<div class="footer-content">
-	    					<a href="about.html#" class="footer-logo"><img src="assets/images/logo/01.png" alt="logo"></a>
+	    					<a href="#" class="footer-logo"><img src="assets/images/logo/01.png" alt="logo"></a>
 	    					<p>World Business Conference one of the best famouse conference in 2020. Most of the speaker of this event ar business magnet. So its a great opportunitee to know the secrate of business success policies Policy.</p>
 	    				</div>
 	    			</div>
@@ -788,12 +788,12 @@
 	    					</div>
 	    					<div class="footer-link-list">
 	    						<ul>
-	    							<li><a href="about.html#">Contact with Us</a></li>
-	    							<li><a href="about.html#">Total Schedule</a></li>
-	    							<li><a href="about.html#">Pricing Plan</a></li>
-	    							<li><a href="about.html#">Sponsor Application Form</a></li>
-	    							<li><a href="about.html#">FAQ</a></li>
-	    							<li><a href="about.html#">Speaker List</a></li>
+	    							<li><a href="#">Contact with Us</a></li>
+	    							<li><a href="#">Total Schedule</a></li>
+	    							<li><a href="#">Pricing Plan</a></li>
+	    							<li><a href="#">Sponsor Application Form</a></li>
+	    							<li><a href="#">FAQ</a></li>
+	    							<li><a href="#">Speaker List</a></li>
 	    						</ul>
 	    					</div>
 	    				</div>
@@ -889,10 +889,10 @@
 	    			</div>
 	    			<div class="footer-social">
 	    				<ul class="social-media d-flex flex-wrap mb-0">
-	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s"><a href="about.html#"><i class="fab fa-facebook-f"></i></a></li>
-	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".4s"><a href="about.html#"><i class="fab fa-linkedin-in"></i></a></li>
-	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s"><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
-	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".2s"><a href="about.html#"><i class="fab fa-google-plus-g"></i></a></li>
+	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".4s"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s"><a href="#"><i class="fab fa-twitter"></i></a></li>
+	    					<li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay=".2s"><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
 	    				</ul>
 	    			</div>
 	    		</div>
@@ -921,7 +921,7 @@
   	<script src="assets/js/functions.js"></script>
   	<script src="assets/js/wow.min.js"></script>
     <script src="assets/js/theia-sticky-sidebar.js"></script>
-	<script src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+	<script src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 	<script src="assets/js/mail.js"></script>
 </body>
 </html>
